@@ -38,5 +38,16 @@ A full-stack e-commerce web application with role-based access built using **ASP
 - Protected routes and AuthContext handling
 - Real-time order and product management
 
-    --------------------------------------
+## ✅ Testing
+
+Unit testing is implemented using **NUnit** for key backend functionalities:
+
+- ✅ **User Registration** – Validates customer and seller creation via Identity
+- ✅ **Login & Token Generation** – Ensures proper JWT token creation
+- ✅ **Place Order** – Tests order placement, wallet deduction logic
+- ✅ **Add/Update Product** – Verifies seller can manage their own products
+- ✅ **Refund Processing** – Validates refund flow and customer wallet credit
+- ✅ **Get by ID/Username** – Ensures secure fetching of user-specific data
+
+             --------------------------------------
 
