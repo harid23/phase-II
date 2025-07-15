@@ -1,0 +1,4 @@
+wwwroot\Images\Products\36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg
+wwwroot\Images\Products\48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg
+wwwroot\Images\Products\biscuits.jpg
+wwwroot\Images\Products\fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg

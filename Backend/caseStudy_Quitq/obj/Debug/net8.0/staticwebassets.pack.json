@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\biscuits.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\biscuits.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CaseStudy_Quitq.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CaseStudy_Quitq.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CaseStudy_Quitq.props",
+      "PackagePath": "build\\CaseStudy_Quitq.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CaseStudy_Quitq.props",
+      "PackagePath": "buildMultiTargeting\\CaseStudy_Quitq.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CaseStudy_Quitq.props",
+      "PackagePath": "buildTransitive\\CaseStudy_Quitq.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

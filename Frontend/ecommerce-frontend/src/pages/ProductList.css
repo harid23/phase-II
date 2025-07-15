@@ -1,0 +1,137 @@
+/* 🧊 Product List Background */
+.product-list-wrapper {
+  min-height: 100vh;
+  padding: 2rem;
+  background: linear-gradient(135deg, #12141e, #1a1c2b);
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+/* Section Heading */
+.product-list-wrapper h2 {
+  color: #eeeeee;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+/* Filters */
+.product-list-wrapper .form-control,
+.product-list-wrapper .form-select,
+.product-list-wrapper .btn {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.04);
+  color: #e0e0e0;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.product-list-wrapper .form-control::placeholder {
+  color: #999;
+}
+
+.product-list-wrapper .btn {
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.product-list-wrapper .btn-primary {
+  background-color: #3a6dd8;
+  border: none;
+}
+
+.product-list-wrapper .btn-primary:hover {
+  background-color: #2e59b8;
+}
+
+.product-list-wrapper .btn-secondary {
+  background-color: #444c5c;
+  border: none;
+}
+
+.product-list-wrapper .btn-secondary:hover {
+  background-color: #3a4353;
+}
+
+/* ✨ Product Card Styling */
+.product-card {
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  color: #f2f2f2;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.product-image {
+  background-color: #1c1f2e;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Text Elements */
+.card-title,
+.card-text,
+.card-body p {
+  color: #ffffff;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  color: #d0d0d0;
+}
+
+/* Inputs and Buttons inside Card */
+.card-body input.form-control {
+  background-color: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+}
+
+.card-body input.form-control::placeholder {
+  color: #aaa;
+}
+
+.card-body button {
+  font-weight: 500;
+}
+
+.card-body .btn-primary {
+  background-color: #4a8efc;
+  color: #fff;
+}
+
+.card-body .btn-primary:hover {
+  background-color: #3d78d4;
+}
+
+.card-body .btn-success {
+  background-color: #58b358;
+  color: #fff;
+}
+
+.card-body .btn-success:hover {
+  background-color: #4a9e4a;
+}
+
+/* Scrollbar (for overflow container if any) */
+.product-list-wrapper::-webkit-scrollbar {
+  width: 8px;
+}
+
+.product-list-wrapper::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+}
+
+/* Responsive Padding */
+@media (max-width: 768px) {
+  .product-list-wrapper {
+    padding: 1rem;
+  }
+}

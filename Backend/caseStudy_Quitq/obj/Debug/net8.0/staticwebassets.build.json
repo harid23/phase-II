@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "UCdJBhdDSP/BtdKlvahNo+kefFMeKkL/ZHGIXOIiDgY=",
+  "Source": "CaseStudy_Quitq",
+  "BasePath": "_content/CaseStudy_Quitq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CaseStudy_Quitq\\wwwroot",
+      "Source": "CaseStudy_Quitq",
+      "ContentRoot": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\",
+      "BasePath": "_content/CaseStudy_Quitq",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg",
+      "SourceId": "CaseStudy_Quitq",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\",
+      "BasePath": "_content/CaseStudy_Quitq",
+      "RelativePath": "Images/Products/36228df2-5522-40b1-9499-8e3cb04cb6ef#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "deviuubkag",
+      "Integrity": "dTVqQbOtLhFz9L3g6IL7T1xAzjM8hio76awn4zS+jrY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg",
+      "SourceId": "CaseStudy_Quitq",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\",
+      "BasePath": "_content/CaseStudy_Quitq",
+      "RelativePath": "Images/Products/48c19742-d898-4385-a7b8-6343bf4bf7b4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5sh7uvn8se",
+      "Integrity": "O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\biscuits.jpg",
+      "SourceId": "CaseStudy_Quitq",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\",
+      "BasePath": "_content/CaseStudy_Quitq",
+      "RelativePath": "Images/Products/biscuits#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5sh7uvn8se",
+      "Integrity": "O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\biscuits.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg",
+      "SourceId": "CaseStudy_Quitq",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\",
+      "BasePath": "_content/CaseStudy_Quitq",
+      "RelativePath": "Images/Products/fea6b901-40c0-42f8-92f3-76bce9448dd1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n9402oy98b",
+      "Integrity": "mxcXt6aQOZQSCnYiOrJhlY9jGsZqW5OwicgKKGhpyYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Products/36228df2-5522-40b1-9499-8e3cb04cb6ef.deviuubkag.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10080121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dTVqQbOtLhFz9L3g6IL7T1xAzjM8hio76awn4zS+jrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Jul 2025 18:05:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "deviuubkag"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dTVqQbOtLhFz9L3g6IL7T1xAzjM8hio76awn4zS+jrY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\36228df2-5522-40b1-9499-8e3cb04cb6ef.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10080121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dTVqQbOtLhFz9L3g6IL7T1xAzjM8hio76awn4zS+jrY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Jul 2025 18:05:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dTVqQbOtLhFz9L3g6IL7T1xAzjM8hio76awn4zS+jrY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/48c19742-d898-4385-a7b8-6343bf4bf7b4.5sh7uvn8se.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Jul 2025 13:31:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5sh7uvn8se"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\48c19742-d898-4385-a7b8-6343bf4bf7b4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Jul 2025 13:31:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/biscuits.5sh7uvn8se.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\biscuits.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Jul 2025 12:46:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5sh7uvn8se"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/biscuits.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/biscuits.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\biscuits.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Jul 2025 12:46:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O4Df5VCuxjacPMvoi/2xVXvs6pyfPn3MH2qTU1VCxAc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mxcXt6aQOZQSCnYiOrJhlY9jGsZqW5OwicgKKGhpyYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Jul 2025 16:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mxcXt6aQOZQSCnYiOrJhlY9jGsZqW5OwicgKKGhpyYw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/fea6b901-40c0-42f8-92f3-76bce9448dd1.n9402oy98b.jpg",
+      "AssetFile": "C:\\Users\\Hari\\source\\repos\\Phase2\\API\\CaseStudy_Quitq\\caseStudy_Quitq\\wwwroot\\Images\\Products\\fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mxcXt6aQOZQSCnYiOrJhlY9jGsZqW5OwicgKKGhpyYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Jul 2025 16:52:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n9402oy98b"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/fea6b901-40c0-42f8-92f3-76bce9448dd1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mxcXt6aQOZQSCnYiOrJhlY9jGsZqW5OwicgKKGhpyYw="
+        }
+      ]
+    }
+  ]
+}
