@@ -20,14 +20,14 @@ A full-stack e-commerce web application with role-based access built using **ASP
 - View and update profile
 
 ### 🛍️ Seller
-- Add, update, and delete own products
-- View orders received
+- Add, update, and delete own products (**softdelete**)
+- View orders received, Update order status
 - Track earnings via wallet
 - Update profile
 
 ### 🛠️ Admin
 - Manage all customers, sellers, products, and orders
-- Soft-delete users
+- Soft-delete users, Products
 - View dashboard stats and filter/search data
 
 ## 🚀 Project Features
